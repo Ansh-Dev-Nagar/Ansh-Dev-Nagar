@@ -3,8 +3,7 @@
  ---
 - 👀 I’m interested in Competitive coding and web development.
 
----
-- 📫 You can reach me from my linkedin account or my email anshdevnagar@gmail.com
+
 ---
 
 - :man_technologist: I am a Full Stack Developer well-versed in modern web development technologies, including React, NodeJS, ExpressJS, MongoDB, HTML, CSS frameworks, and responsive design.
@@ -13,6 +12,9 @@ Passionate about problem-solving and data structures, I thrive on creating effic
 I have also completed the Web Developer Bootcamp course on Udemy, further solidifying my expertise in full-stack web development.
 My projects, including a motivational Discord bot and a sorting techniques visualizer, showcase my ability to apply technical knowledge creatively.
 I'm eager to contribute my expertise to a dynamic team.
+
+---
+- 📫 You can reach me from my linkedin account or my email anshdevnagar@gmail.com
 
 ---
 <h3 align="center">Profiles:</h3>
