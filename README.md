@@ -3,15 +3,7 @@
 
 ---
 
-### 👀 Interests
-- Web development
-- Competitive coding
-
----
-
-### 💻 About Me
-
-I am a **Full Stack Developer** with expertise in modern web development technologies. Here's a quick overview of my skills and experience:
+💻 I am a **Full Stack Developer** with expertise in modern web development technologies. Here's a quick overview of my skills and experience:
 
 - **Languages & Frameworks**: React, NodeJS, ExpressJS, MongoDB, HTML, CSS
 - **Specialization**: Front-end and back-end development
@@ -34,9 +26,9 @@ I'm always eager to contribute to a dynamic team and improve my skills further.
 
 ---
 
-<h3 align="center">Profiles</h3>
+<h3 align="left">Profiles</h3>
 
-<p align="center">
+<p align="left">
   <a href="https://linkedin.com/in/ansh-dev-nagar" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ansh-dev-nagar" height="30" width="40" />
   </a>
