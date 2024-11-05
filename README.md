@@ -1,8 +1,6 @@
 
 <h3 align="center">👋 Hi, I’m @Ansh-Dev-Nagar</h3>
 
----
-
 💻 I am a **Full Stack Developer** with expertise in modern web development technologies. Here's a quick overview of my skills and experience:
 
 - **Languages & Frameworks**: React, NodeJS, ExpressJS, MongoDB, HTML, CSS
