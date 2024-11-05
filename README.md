@@ -1,4 +1,4 @@
-- <h2>👋 Hi, I’m @Ansh-Dev-Nagar</h2>
+ <h2>👋 Hi, I’m @Ansh-Dev-Nagar</h2>
 - 👀 I’m interested in Competitive coding and web development
 - 📫 You can reach me from my linkedin account or my email anshdevnagar@gmail.com
 - I am a Full Stack Developer well-versed in modern web development technologies, including React, NodeJS, ExpressJS, MongoDB, HTML, CSS frameworks, and responsive design.
