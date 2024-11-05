@@ -1,39 +1,35 @@
+### Hi there, I'm @Ansh-Dev-Nagar 👋
 
-<h3 align="center">👋 Hi, I’m @Ansh-Dev-Nagar</h3>
+I'm a Full Stack Developer and student from India. 🇮🇳
 
-💻 I am a **Full Stack Developer** with expertise in modern web development technologies. Here's a quick overview of my skills and experience:
+I am a passionate **Full Stack Developer** with a strong foundation in building web applications. I specialize in both front-end and back-end development using modern web technologies. I am currently pursuing my degree in Information Technology at **Manipal University Jaipur**.
 
-- **Languages & Frameworks**: React, NodeJS, ExpressJS, MongoDB, HTML, CSS
-- **Specialization**: Front-end and back-end development
-- **Education**: Background in Information Technology from Manipal University Jaipur
-- **Passion**: Problem-solving, Data Structures, and creating efficient solutions
+I gained professional experience through my **internship at Nokia**, where I contributed to developing a full-stack web application, enhancing system efficiency by **20%**. My work involved designing and integrating **RESTful APIs**, collaborating in **Agile sprints**, and performing rigorous testing to ensure software reliability.
 
-I have completed the **Web Developer Bootcamp** on Udemy, which further solidified my full-stack development skills. Some of my projects include:
+I have developed various projects, showcasing my commitment to solving problems and creating impactful solutions, including:
 
--  **Adventure point** (webapp)
-- A **motivational Discord bot**
-- A **sorting techniques visualizer**
+- **Adventure Point** – A web application designed to enhance user experiences.
+- A **Motivational Discord Bot** that promotes positive engagement.
+- A **Sorting Techniques Visualizer** to demonstrate algorithm efficiency interactively.
 
-I'm always eager to contribute to a dynamic team and improve my skills further.
+I completed the **Web Developer Bootcamp** on Udemy to deepen my understanding and practical skills in full-stack development.
 
----
+I have a strong passion for **problem-solving** and enjoy engaging in **competitive coding**, constantly challenging myself to learn and improve. I am always eager to tackle complex problems and find efficient solutions.
 
-### 📫 Contact Me
-- 📧 Email: [anshdevnagar@gmail.com](mailto:anshdevnagar@gmail.com)
-- 🔗 LinkedIn: [Ansh Dev Nagar](https://linkedin.com/in/ansh-dev-nagar)
+I enjoy developing robust APIs, designing interactive user interfaces, and leveraging frameworks such as **React**, **Node.js**, **ExpressJS**, and **MongoDB** to create seamless, efficient applications.
 
----
+I am looking forward to collaborating with other developers and contributing to impactful projects. I'm constantly exploring new technologies to expand my knowledge and stay current with industry trends.
 
-<h3 align="left">Profiles</h3>
+You can connect with me:
 
-<p align="left">
-  <a href="https://linkedin.com/in/ansh-dev-nagar" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ansh-dev-nagar" height="30" width="40" />
-  </a>
-  <a href="https://www.leetcode.com/anshdevnagar" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anshdevnagar" height="30" width="40" />
-  </a>
-</p>
+- [LinkedIn](https://linkedin.com/in/ansh-dev-nagar)
+- [Gmail: anshdevnagar@gmail.com](mailto:anshdevnagar@gmail.com)
+- [GitHub as @Ansh-Dev-Nagar (you are here)](https://github.com/Ansh-Dev-Nagar)
+- [LeetCode: anshdevnagar](https://www.leetcode.com/anshdevnagar)
+
+Feel free to reach out or connect with me. Let's innovate and grow together!
+
+
 
 
 
