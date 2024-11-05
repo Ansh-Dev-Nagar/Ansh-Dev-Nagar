@@ -1,13 +1,13 @@
  <h3 align="center">👋 Hi, I’m @Ansh-Dev-Nagar</h3>
 
  ---
-- 👀 I’m interested in Competitive coding and web development <br>
+- 👀 I’m interested in Competitive coding and web development.
 
 ---
-- 📫 You can reach me from my linkedin account or my email anshdevnagar@gmail.com <br>
+- 📫 You can reach me from my linkedin account or my email anshdevnagar@gmail.com
 ---
 
-- I am a Full Stack Developer well-versed in modern web development technologies, including React, NodeJS, ExpressJS, MongoDB, HTML, CSS frameworks, and responsive design.
+- :man_technologist: I am a Full Stack Developer well-versed in modern web development technologies, including React, NodeJS, ExpressJS, MongoDB, HTML, CSS frameworks, and responsive design.
 With a background in Information Technology from Manipal University Jaipur, I specialize in both front-end and back-end development, ensuring seamless and optimal user experiences.
 Passionate about problem-solving and data structures, I thrive on creating efficient and innovative solutions.
 I have also completed the Web Developer Bootcamp course on Udemy, further solidifying my expertise in full-stack web development.
