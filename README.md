@@ -8,12 +8,10 @@ I gained professional experience through my **internship at Nokia**, where I con
 
 I have developed various projects, showcasing my commitment to solving problems and creating impactful solutions, including:
 
-- [**Adventure Point**](https://github.com/YourUsername/AdventurePoint) – A web application designed to discover, share, and review adventure destinations.
-- [**Sorting Visualizer**](https://github.com/YourUsername/SortingVisualizer) - A web application to visually demonstrate algorithm efficiency interactively.
-- [**Color Picker**](https://github.com/YourUsername/ColorPicker) - Google Chrome extension which helps you to pick any color.
-- [**Courage Bot**](https://github.com/YourUsername/CourageBot) - Motivational Discord Bot that promotes positive engagement.
-
-
+- [**Adventure Point**](https://github.com/Ansh-Dev-Nagar/Adventure_Point) – A web application designed to discover, share, and review adventure destinations.
+- [**Sorting Visualizer**](https://github.com/Ansh-Dev-Nagar/sorting_visualizer) - A web application to visually demonstrate algorithm efficiency interactively.
+- [**Color Picker**](https://github.com/Ansh-Dev-Nagar/color_picker) - Google Chrome extension which helps you to pick any color.
+- [**Courage Bot**](https://github.com/Ansh-Dev-Nagar/courage_bot) - Motivational Discord Bot that promotes positive engagement.
 
 I completed the **Web Developer Bootcamp** on Udemy to deepen my understanding and practical skills in full-stack development.
 
