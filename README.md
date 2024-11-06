@@ -8,9 +8,12 @@ I gained professional experience through my **internship at Nokia**, where I con
 
 I have developed various projects, showcasing my commitment to solving problems and creating impactful solutions, including:
 
-- **Adventure Point** – A web application designed to enhance user experiences.
-- A **Motivational Discord Bot** that promotes positive engagement.
-- A **Sorting Techniques Visualizer** to demonstrate algorithm efficiency interactively.
+- [**Adventure Point**](https://github.com/YourUsername/AdventurePoint) – A web application designed to discover, share, and review adventure destinations.
+- [**Sorting Visualizer**](https://github.com/YourUsername/SortingVisualizer) - A web application to visually demonstrate algorithm efficiency interactively.
+- [**Color Picker**](https://github.com/YourUsername/ColorPicker) - Google Chrome extension which helps you to pick any color.
+- [**Courage Bot**](https://github.com/YourUsername/CourageBot) - Motivational Discord Bot that promotes positive engagement.
+
+
 
 I completed the **Web Developer Bootcamp** on Udemy to deepen my understanding and practical skills in full-stack development.
 
