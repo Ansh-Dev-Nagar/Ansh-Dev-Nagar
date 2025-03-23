@@ -15,7 +15,7 @@ I have built multiple **full-stack applications**, demonstrating my ability to d
 . 
  
 And many more **projects**, showcasing my expertise in **Modern Technologies**.  
-You can check out all my projects in my **[GitHub repositories](https://github.com/Ansh-Dev-Nagar)**.  
+You can check out all my projects in my **[GitHub repositories](https://github.com/Ansh-Dev-Nagar?tab=repositories)**.  
 
 I have a strong passion for **problem-solving** and enjoy engaging in **competitive coding**, constantly challenging myself to learn and improve. I am always eager to tackle complex problems and find efficient solutions.
 
