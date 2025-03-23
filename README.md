@@ -1,19 +1,24 @@
 ### Hi there, I'm @Ansh-Dev-Nagar 👋
 
-I'm a Full Stack Developer and student from India. 🇮🇳
 
-I am a passionate **Full Stack Developer** with a strong foundation in building web applications. I specialize in both front-end and back-end development using modern web technologies. I am currently pursuing my degree in Information Technology at **Manipal University Jaipur**.
+I'm a passionate **Full Stack Developer** from India 🇮🇳 with a strong foundation in building web applications.
 
-I gained professional experience through my **internship at Nokia**, where I contributed to developing a full-stack web application, enhancing system efficiency by **20%**. My work involved designing and integrating **RESTful APIs**, collaborating in **Agile sprints**, and performing rigorous testing to ensure software reliability.
+I specialize in both front-end and back-end development using modern web technologies.  
 
-I have developed various projects, showcasing my commitment to solving problems and creating impactful solutions, including:
+I have done my **B.Tech in Information Technology** from **Manipal University Jaipur**.  
 
-- [**Adventure Point**](https://github.com/Ansh-Dev-Nagar/Adventure_Point) – A web application designed to discover, share, and review adventure destinations.
-- [**Sorting Visualizer**](https://github.com/Ansh-Dev-Nagar/sorting_visualizer) - A web application to visually demonstrate algorithm efficiency interactively.
-- [**Color Picker**](https://github.com/Ansh-Dev-Nagar/color_picker) - Google Chrome extension which helps you to pick any color.
-- [**Courage Bot**](https://github.com/Ansh-Dev-Nagar/courage_bot) - Motivational Discord Bot that promotes positive engagement.
+I gained professional experience through my **internship at Nokia**, where I:  
+- **Developed and optimized front-end features** using React for an internal web application, improving data management efficiency.  
+- **Integrated and tested RESTful APIs** with Express and MongoDB, ensuring seamless client-server communication.  
+- **Conducted API testing, debugging, and performance optimization** to meet Nokia’s software quality standards.  
 
-I completed the **Web Developer Bootcamp** on Udemy to deepen my understanding and practical skills in full-stack development.
+I have built multiple **full-stack applications**, demonstrating my ability to develop **scalable and robust** solutions. Some of my notable projects include:  
+- [**PingMe**](https://github.com/Ansh-Dev-Nagar/PingMe-ChatApplication) – A **real-time chat application** with **Socket.io** for instant messaging and **JWT authentication** for secure logins.  
+- [**Adventure Point**](https://github.com/Ansh-Dev-Nagar/Adventure_Point) – A **full-stack web app** designed to discover, share, and review adventure destinations.
+. 
+ 
+And many more **projects**, showcasing my expertise in **Modern Technologies**.  
+You can check out all my projects in my **[GitHub repositories](https://github.com/Ansh-Dev-Nagar)**.  
 
 I have a strong passion for **problem-solving** and enjoy engaging in **competitive coding**, constantly challenging myself to learn and improve. I am always eager to tackle complex problems and find efficient solutions.
 
