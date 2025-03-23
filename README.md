@@ -7,10 +7,7 @@ I specialize in both front-end and back-end development using modern web technol
 
 I have done my **B.Tech in Information Technology** from **Manipal University Jaipur**.  
 
-I gained professional experience through my **internship at Nokia**, where I:  
-- **Developed and optimized front-end features** using React for an internal web application, improving data management efficiency.  
-- **Integrated and tested RESTful APIs** with Express and MongoDB, ensuring seamless client-server communication.  
-- **Conducted API testing, debugging, and performance optimization** to meet Nokia’s software quality standards.  
+I gained professional experience through my **internship at Nokia**, where I I contributed to an internal full-stack web application by **developing and optimizing front-end features in React**, **integrating and testing RESTful APIs with Express and MongoDB**, and **conducting API testing, debugging, and performance optimization** to ensure software quality. 
 
 I have built multiple **full-stack applications**, demonstrating my ability to develop **scalable and robust** solutions. Some of my notable projects include:  
 - [**PingMe**](https://github.com/Ansh-Dev-Nagar/PingMe-ChatApplication) – A **real-time chat application** with **Socket.io** for instant messaging and **JWT authentication** for secure logins.  
