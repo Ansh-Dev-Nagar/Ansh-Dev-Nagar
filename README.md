@@ -1,6 +1,6 @@
 ### Hi there, I'm @Ansh-Dev-Nagar 👋
 
-I am passionate about building **scalable web applications**, solving **complex problems**, and I enjoy **competitive coding**.
+I am passionate about building **scalable web applications**, solving **complex problems**, and I enjoy **coding**.
 
 I specialize in both front-end and back-end development using modern web technologies.
 
